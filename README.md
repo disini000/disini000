@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @disini000
-- 👀 I’m interested in Data analyst, Business analyst, software testing, frondend development 
-- 🌱 I’m currently learning python, React, node js
+- 👀 I’m interested in Data analysis, software testing
+- 🌱 I’m currently learning Python, React, node js
 - 💞️ I’m looking to collaborate on 
-- 📫 you can reach me via linkedln ( Disini Chathumika )
+- 📫 you can reach me via LinkedIn ( Disini Samaraweera )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
